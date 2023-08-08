@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 1rem;
+  width: 80%;
+}
+
+span {
+  font-size: 2rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+#footer {
+  margin-top: 3rem;
+  padding: 1rem;
+}
